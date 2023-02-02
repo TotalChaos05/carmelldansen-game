@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="gradient-1" bx:pinned="true">
+      <stop offset="0" style="stop-color: rgb(255, 255, 255);"/>
+      <stop offset="0.234" style="stop-color: rgb(105, 209, 105);"/>
+      <stop offset="0.5" style="stop-color: rgb(55, 194, 55);"/>
+      <stop offset="0.709" style="stop-color: rgb(43, 153, 43);"/>
+      <stop offset="1" style=""/>
+    </linearGradient>
+    <linearGradient id="gradient-0" bx:pinned="true">
+      <stop offset="0" style=""/>
+      <stop offset="0.143" style="stop-color: rgb(31, 67, 34);"/>
+      <stop offset="0.26" style="stop-color: rgb(52, 113, 57);"/>
+      <stop offset="1" style="stop-color: rgb(101, 255, 114);"/>
+    </linearGradient>
+    <linearGradient id="gradient-1-0" gradientUnits="userSpaceOnUse" x1="243.338" y1="105.974" x2="243.338" y2="388.099" gradientTransform="matrix(1.201878, 0, 0, 1, -40.243598, 7.992896)" xlink:href="#gradient-1"/>
+    <linearGradient id="gradient-0-0" gradientUnits="userSpaceOnUse" x1="243.713" y1="110.638" x2="243.713" y2="383.882" gradientTransform="matrix(1.201878, 0, 0, 1, -40.243598, 7.992896)" xlink:href="#gradient-0"/>
+    <linearGradient id="gradient-2" bx:pinned="true">
+      <stop offset="0.331" style="stop-color: rgb(231, 231, 231);"/>
+      <stop offset="0.882" style="stop-color: rgb(144, 144, 144);"/>
+    </linearGradient>
+    <bx:grid x="0" y="0" width="66.608" height="66.608"/>
+    <linearGradient id="gradient-2-0" gradientUnits="userSpaceOnUse" x1="257.154" y1="158.97" x2="257.154" y2="357.904" xlink:href="#gradient-2"/>
+  </defs>
+  <rect x="24.866" y="113.966" width="454.708" height="282.125" style="stroke: rgb(0, 0, 0); paint-order: fill; fill: url(#gradient-1-0);" rx="141.063" ry="141.063"/>
+  <rect x="32.473" y="118.63" width="440.394" height="273.244" style="stroke: rgb(0, 0, 0); paint-order: fill; fill: url(#gradient-0-0);" rx="141.063" ry="141.063"/>
+  <path d="M 237.26 158.97 H 277.047 V 238.543 H 356.621 V 278.33 H 277.047 V 357.904 H 237.26 V 278.33 H 157.687 V 238.543 H 237.26 Z" style="stroke: rgb(0, 0, 0); fill: url(#gradient-2-0);" transform="matrix(0.708674, 0.705536, -0.705536, 0.708674, 254.587143, -107.030121)" bx:shape="cross 157.687 158.97 198.934 198.934 39.787 39.787 0.5 1@f580d7b2"/>
+</svg>

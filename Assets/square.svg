@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="gradient-1" bx:pinned="true">
+      <stop offset="0" style="stop-color: rgb(255, 255, 255);"/>
+      <stop offset="0.097" style="stop-color: rgb(255, 102, 102);"/>
+      <stop offset="0.326" style="stop-color: rgb(255, 0, 0);"/>
+      <stop offset="0.72" style="stop-color: rgb(255, 0, 0);"/>
+      <stop offset="1" style=""/>
+    </linearGradient>
+    <linearGradient id="gradient-0" bx:pinned="true">
+      <stop offset="0" style=""/>
+      <stop offset="0.225" style="stop-color: rgb(98, 0, 0);"/>
+      <stop offset="0.352" style="stop-color: rgb(139, 0, 0);"/>
+      <stop offset="0.541" style="stop-color: rgb(174, 0, 0);"/>
+      <stop offset="1" style="stop-color: rgb(255, 0, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-1-0" gradientUnits="userSpaceOnUse" x1="243.338" y1="105.974" x2="243.338" y2="388.099" gradientTransform="matrix(1.201878, 0, 0, 1, -40.243598, 7.992896)" xlink:href="#gradient-1"/>
+    <linearGradient id="gradient-0-0" gradientUnits="userSpaceOnUse" x1="243.713" y1="110.638" x2="243.713" y2="383.882" gradientTransform="matrix(1.201878, 0, 0, 1, -40.243598, 7.992896)" xlink:href="#gradient-0"/>
+    <linearGradient id="gradient-2" bx:pinned="true">
+      <stop offset="0.331" style="stop-color: rgb(231, 231, 231);"/>
+      <stop offset="0.882" style="stop-color: rgb(144, 144, 144);"/>
+    </linearGradient>
+    <linearGradient id="gradient-2-0" gradientUnits="userSpaceOnUse" x1="255.329" y1="168.739" x2="255.329" y2="347.247" xlink:href="#gradient-2"/>
+  </defs>
+  <rect x="24.866" y="113.966" width="454.708" height="282.125" style="stroke: rgb(0, 0, 0); paint-order: fill; fill: url(#gradient-1-0);" rx="141.063" ry="141.063"/>
+  <rect x="32.473" y="118.63" width="440.394" height="273.244" style="stroke: rgb(0, 0, 0); paint-order: fill; fill: url(#gradient-0-0);" rx="141.063" ry="141.063"/>
+  <rect x="166.075" y="168.739" width="178.508" height="178.508" style="stroke: rgb(0, 0, 0); fill: url(#gradient-2-0);"/>
+</svg>
