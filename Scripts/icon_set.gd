@@ -14,7 +14,7 @@ func _ready():
 	for i in data:
 		print(data[n])
 		if data[n] == 0:
-			pass
+			self.add_child(MarginContainer.new())
 		elif data[n] == 1:
 			self.add_child(square.instance())
 		elif data[n] == 2:
@@ -23,6 +23,8 @@ func _ready():
 			self.add_child(triangle.instance())
 		elif data[n] == 4:
 			self.add_child(circle.instance())
+		elif data[n] == 5:
+			get_tree().quit()
 		else:
 			pass
 		n+=1

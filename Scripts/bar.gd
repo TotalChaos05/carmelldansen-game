@@ -9,7 +9,7 @@ var data
 var beats = 8
 # Called when the node enters the scene tree for the first time.
 func _ready():
-	print(data)
+#	print(data)
 	for i in data:
 		var icon_set = icon_set_scn.instance()
 		icon_set.data = data[n]
